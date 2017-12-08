@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/location_item"
+        android:title="获取位置信息" />
+    <item
+        android:id="@+id/send_item"
+        android:title="发送位置信息" />
+
+    <item
+        android:id="@+id/routePlan_item"
+        android:title="路线规划方案" />
+
+    <item
+        android:id="@+id/near_item"
+        android:title="附近检索" />
+</menu>
